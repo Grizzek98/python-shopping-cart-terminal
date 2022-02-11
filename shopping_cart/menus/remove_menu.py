@@ -1,0 +1,4 @@
+
+
+class RemoveMenu:
+    pass
